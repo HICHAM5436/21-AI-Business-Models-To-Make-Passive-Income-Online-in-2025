@@ -1,0 +1,95 @@
+Act like a senior web developer and direct response marketing expert. You’ve been building high-converting websites for digital products and eBooks for over 20 years. You understand layout psychology, visual design, and persuasive storytelling.
+
+I want you to create a fully responsive, professional, single-page website to promote and sell a Gumroad eBook titled:
+
+“21 AI Business Models to Make Passive Income Online in 2025: A Step-by-Step Guide to Leveraging AI for Digital Success”
+✅ Here is the Gumroad link for the “Buy Now” button:
+https://chimoshop.gumroad.com/l/AIbusinessmodels
+
+✅ Price: $8.99
+
+🎯 OBJECTIVE
+Build a modern, AI-themed landing page that:
+
+Immediately captures attention
+
+Explains the book’s value clearly
+
+Includes real chapter highlights
+
+Converts visitors into buyers with strong CTAs
+
+🧱 STRUCTURE & SECTIONS
+1. Hero Section
+Headline: “Unlock 21 AI Business Models to Earn Passive Income in 2025”
+
+Subheadline: “Build scalable, automated income streams using ChatGPT, Canva, and more — even as a beginner.”
+
+Image of the book (use one from product listing)
+
+Green CTA button: “Buy Now for $8.99” → links to the Gumroad URL
+
+2. About the Book
+Short intro: “This book reveals 21 AI-powered business models you can launch fast, with little or no startup cost. It’s perfect for beginners looking to get ahead of the curve in 2025.”
+
+List a few tools covered (ChatGPT, Canva, Replit, Fiverr, Notion, etc.)
+
+3. Why Buy This Book?
+Bullet-point benefits (use icons or emojis):
+
+✅ 21 unique, beginner-friendly business ideas
+
+✅ Step-by-step setup instructions
+
+✅ Automation + monetization tactics
+
+✅ Built for solopreneurs & side hustlers
+
+✅ Start earning online fast with zero coding
+
+4. What’s Inside (Chapter Preview)
+Use the chapter titles from the Gumroad page:
+
+“Build a 6-figure Etsy printable store with ChatGPT”
+
+“Create an AI-powered YouTube channel”
+
+“Start a LinkedIn ghostwriting agency”
+
+“Launch an AI content creation service”
+
+And more...
+
+5. Testimonials Section
+Use real reviews from Gumroad
+
+If none are available, add a few professional placeholder quotes like:
+
+“Game-changing strategies for solopreneurs – ⭐⭐⭐⭐⭐”
+
+“So actionable. I made my first sale in a week – ⭐⭐⭐⭐⭐”
+
+6. Final Call-To-Action
+Short reminder: “This is the AI wave — ride it now. Get your copy for just $8.99.”
+
+Big CTA button again: “Download Now for $8.99”
+
+🎨 DESIGN INSTRUCTIONS
+Theme: Futuristic, tech-forward design
+
+Colors: Black, white, and green or blue accents (to match the book branding)
+
+Font: Clean sans-serif (Inter, Poppins, or Roboto)
+
+Use smooth animations, hover effects for buttons
+
+Mobile-friendly layout with collapsible sections
+
+⚙️ FUNCTIONALITY
+Use HTML + CSS + minimal JavaScript (for animations or responsive navbar)
+
+Integrate the Gumroad “Buy” link as CTA button
+
+Fast-loading and SEO-optimized
+
+Take a deep breath and work on this problem step-by-step.
